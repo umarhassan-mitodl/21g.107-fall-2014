@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "legacy_uid": "891db227-099e-cfdf-d06d-e88abd7127d9",
+  "instructors": {
+    "content": [
+      "c192c8bd-d444-4b30-b9e4-7a79ede340d8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "09c74835-03cc-2dde-85cd-e22c601db4cc",
+    "website": "21g-107-chinese-i-streamlined-fall-2014"
+  },
+  "course_title": "Chinese I (Streamlined)",
+  "course_description": "This course, along with [21G.108 / 158](/courses/21g-108-chinese-ii-streamlined-spring-2015/) offered in the spring, form the elementary level of the streamlined sequence, which is for students who have some basic conversational skills gained, typically, from growing up in a Chinese speaking environment, but lack a corresponding level of literacy. The focus of the course is on learning standard everyday usage, on reading in both full and simplified characters, and on writing. This course, along with [21G.108 / 158](/courses/21g-108-chinese-ii-streamlined-spring-2015/) offered in the spring, are conducted entirely in Chinese.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.157,21G.181",
+  "primary_course_number": "21G.107",
+  "course_image_thumbnail": {
+    "content": "e4832e47-f51a-0aec-2bfd-844cb5554485",
+    "website": "21g-107-chinese-i-streamlined-fall-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "9769786c-1515-433d-ba17-22934bf59404",
+  "site_short_id": "21g.107-fall-2014",
+  "site_url_path": "courses/21g-107-chinese-i-streamlined-fall-2014",
+  "title": "Course Metadata"
+}

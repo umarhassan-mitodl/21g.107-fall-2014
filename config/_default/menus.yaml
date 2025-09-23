@@ -1,0 +1,60 @@
+leftnav:
+- identifier: 956f5b3b-3f29-0e69-253d-62391ce2f585
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f01284da-3813-25b0-8e1a-cd2e4444641a
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 4ae1516c-2206-7914-2383-e2f4136cf2f6
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 836e4168-284e-954b-99e5-0fa52e2747a5
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 393fc724-4459-8a32-3299-3812bc53d338
+  name: Module 1 (Sessions 1-10)
+  pageRef: /pages/assignments/module-1-sessions-1-10
+  parent: 836e4168-284e-954b-99e5-0fa52e2747a5
+  weight: 50
+- identifier: 86518d6d-b38b-be0b-a165-4b9635d787e1
+  name: Module 2 (Sessions 11-16)
+  pageRef: /pages/assignments/module-2-sessions-11-16
+  parent: 836e4168-284e-954b-99e5-0fa52e2747a5
+  weight: 60
+- identifier: 3cbace53-3491-da32-a947-1f328ba9d61f
+  name: Module 3 (Sessions 17-23)
+  pageRef: /pages/assignments/module-3-sessions-17-23
+  parent: 836e4168-284e-954b-99e5-0fa52e2747a5
+  weight: 70
+- identifier: 42f8b4b9-49e0-50b9-103b-659711d8b665
+  name: Module 4 (Sessions 24-29)
+  pageRef: /pages/assignments/module-4-sessions-24-29
+  parent: 836e4168-284e-954b-99e5-0fa52e2747a5
+  weight: 80
+- identifier: 0acd6911-fc4d-3177-f298-ab41e95b46e0
+  name: Module 5 (Sessions 30-38)
+  pageRef: /pages/assignments/module-5-sessions-30-38
+  parent: 836e4168-284e-954b-99e5-0fa52e2747a5
+  weight: 90
+- identifier: c5ab2893-05bb-e61f-fc95-193b2b1864c8
+  name: Instructions on Lingt Speaking Assignments
+  pageRef: /pages/assignments/instructions-on-lingt-speaking-assignments
+  parent: 836e4168-284e-954b-99e5-0fa52e2747a5
+  weight: 100
+- identifier: 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 110
+- identifier: 1541613f-8e57-643a-07a2-8d4eaf450cab
+  name: Tools and Resources
+  pageRef: /pages/tools-and-resources/
+  weight: 120
+- identifier: c8e7d963-cbc3-9efe-e4f3-9c60e8916418
+  name: Chinese Input Methods and Pinyin with Tone Marks
+  pageRef: /pages/tools-and-resources/chinese-input-methods-and-pinyin-with-tone-marks
+  parent: 1541613f-8e57-643a-07a2-8d4eaf450cab
+  weight: 130
