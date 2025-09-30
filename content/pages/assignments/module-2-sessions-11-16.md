@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides details on assignments and in-class activities
   for the second module of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -78,7 +80,7 @@ IN CLASS
     1.  Handwrite a sentence for each of the entries in "Sentence Patterns and Word Usage." on pp. 13–14 in \[PC\] on a piece paper and hand them in in class.
     2.  Using the Lesson 1 text structure as a model, handwrite an article on "The Names of people" in \*Country\* (i. e. \*Country\* rén de xìngmíng) of no less than 120 characters. It can be any country of your own choice.
 
-If you want to use a word you know how to say but not how to write, try Appendices I, II on pp. 209–48, or use a dictionary. If you don't have a dictionary, type in Pinyin for the "Search Dictionary" section on the website of {{% resource_link "84792f9a-e456-4a91-97a3-6444248668f8" "Zhongwen Zipu (Learning Chinese Characters 中文字譜" %}}.)
+If you want to use a word you know how to say but not how to write, try Appendices I, II on pp. 209–48, or use a dictionary. If you don't have a dictionary, type in Pinyin for the "Search Dictionary" section on the website of [Zhongwen Zipu (Learning Chinese Characters 中文字譜](http://zhongwen.com).)
 
 
 {{< tdclose >}}
@@ -155,7 +157,7 @@ If you want to use a word you know how to say but not how to write, try Appendic
 
 *   Prepare a 2–3 minute talk for the following topics. Your presentation will be graded.
     1.  My name
-        1.  Find out the origin of your family name and meaning of each character in your name (you may find this {{% resource_link "2b875b31-ae20-4179-98c0-7bcc8b9cdf96" "website" %}} helpful.)  Or Check with your parents, and other online dictionaries. (In order for Chinese characters on a webpage to display properly, go to View of your browser, and choose Traditional Chinese Big5 (in this case) or Simplified Chinese GB for Character Set or Encoding.)
+        1.  Find out the origin of your family name and meaning of each character in your name (you may find this [website](http://www.yutopian.com/names) helpful.)  Or Check with your parents, and other online dictionaries. (In order for Chinese characters on a webpage to display properly, go to View of your browser, and choose Traditional Chinese Big5 (in this case) or Simplified Chinese GB for Character Set or Encoding.)
         2.  Do you have more than one name? Why?
         3.  Any fun stories about your name, etc.
     2.  Group discussion:

@@ -87,7 +87,7 @@ IN CLASS
         
         Be sure to include when, where, how, and why it was built, its historical significance and its impact today. Pay special attention to cohesiveness. (cf. Understanding the Text Structure on pp. 126–27).
         
-*   If you want to use a word you know how to say it but do not know how to write it, try Appendices I, II on pp. 209–48, or use a dictionary. If you don't have a dictionary, type in Pinyin for the "Search Dictionary" section at at Zhongwen Zipu at this {{% resource_link "84792f9a-e456-4a91-97a3-6444248668f8" "website" %}}, or use an on-line dictionary listed in the {{% resource_link 1541613f-8e57-643a-07a2-8d4eaf450cab "Tools and Resources" %}} section.
+*   If you want to use a word you know how to say it but do not know how to write it, try Appendices I, II on pp. 209–48, or use a dictionary. If you don't have a dictionary, type in Pinyin for the "Search Dictionary" section at at Zhongwen Zipu at this [website](http://zhongwen.com), or use an on-line dictionary listed in the {{% resource_link 1541613f-8e57-643a-07a2-8d4eaf450cab "Tools and Resources" %}} section.
 
 
 {{< tdclose >}}

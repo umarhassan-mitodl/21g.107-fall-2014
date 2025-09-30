@@ -212,7 +212,7 @@ In the test, there will be the following types of questions:
 
 1.  Read \[LC\] Lesson 6 with the writing assignment of practicing writing the big characters in Lesson 6on your own, following the correct stroke orders.
 2.  Learn the big characters in Lesson 5 by heart.
-3.  Using the characters in Lessons 1–6, handwrite a composition of no less than 120 characters (pinyin transcription optional) on your hometown. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy sheet. Search for characters you know how to say but not how to write with pinyin at the website of {{% resource_link "84792f9a-e456-4a91-97a3-6444248668f8" "Learn Chinese Characters 中文字譜" %}}.
+3.  Using the characters in Lessons 1–6, handwrite a composition of no less than 120 characters (pinyin transcription optional) on your hometown. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy sheet. Search for characters you know how to say but not how to write with pinyin at the website of [Learn Chinese Characters 中文字譜](http://zhongwen.com).
 
 
 {{< tdclose >}}
@@ -235,7 +235,7 @@ In the test, there will be the following types of questions:
 
 
 1.  Learn the big characters in Lesson 6 by heart.
-2.  Using the characters Lessons 1–6, handwrite a composition of no less than 120 characters on your life at MIT. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy sheet. Search for characters you know how to say but not how to write with pinyin at the website of {{% resource_link "84792f9a-e456-4a91-97a3-6444248668f8" "Learn Chinese Characters 中文字譜" %}}.
+2.  Using the characters Lessons 1–6, handwrite a composition of no less than 120 characters on your life at MIT. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy sheet. Search for characters you know how to say but not how to write with pinyin at the website of [Learn Chinese Characters 中文字譜](http://zhongwen.com).
 
 
 {{< tdclose >}}

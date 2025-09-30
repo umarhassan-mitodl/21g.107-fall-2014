@@ -4,6 +4,8 @@ description: ''
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/d4743335067252f4fd06ccdd23c3ad01_FtIdQUcZlWU.pdf
 file_size: 21549
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

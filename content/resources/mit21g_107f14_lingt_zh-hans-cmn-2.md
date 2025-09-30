@@ -4,6 +4,8 @@ description: ''
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/b2d4bb0946c557dca9e7d1a184e7d53e_MIT21G_107F14_Lingt_zh-hans-cmn.vtt
 file_size: 2198
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,6 +5,8 @@ description: This file contains information regarding lecture notes for [LC] les
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/308b6886ea2e6f12f91602dce5eecf4a_MIT21G_107F14_Chars3.pdf
 file_size: 592920
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

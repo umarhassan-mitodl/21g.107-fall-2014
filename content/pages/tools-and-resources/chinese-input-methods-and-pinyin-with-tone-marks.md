@@ -3,6 +3,8 @@ content_type: page
 description: This page includes information about how to browse webpages with Chinese
   characters, how to input Chinese characters with Pinyin, and how to input Pinyin
   tone marks in Microsoft Word.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Tools and Resources
@@ -19,7 +21,7 @@ IE: In most cases, the browser automatically detects the encoding of the charact
 
 Safari & Firefox work in pretty much the same way.
 
-Now: Give it a try! {{% resource_link "a3667c2a-6093-4aef-9422-2b7f89f7dfe9" "The Unknown Space" %}}, the first BBS (Bulletin Board System) for Chinese students studying abroad, and in fact, the favorite of many even today—first started by, of course, MIT's international students from China in the early 1990s.
+Now: Give it a try! [The Unknown Space](http://www.mitbbs.com/), the first BBS (Bulletin Board System) for Chinese students studying abroad, and in fact, the favorite of many even today—first started by, of course, MIT's international students from China in the early 1990s.
 
 How to Input Chinese Characters with Pinyin
 -------------------------------------------
@@ -30,15 +32,15 @@ For our discussion board, you can input directly using Global IME. Or you can us
 
 Once you have the fonts and IME installed, nearly any Windows application is capable of interacting with the IME to accept unicode Chinese input. To input traditional characters, click on the "EN" icon in the task bar, and choose to "Show the Language Bar". Click on "EN" and choose "Chinese (PRC)". Then, click on the little triangle on the lower right corner of the language bar and click on "character set". A "Jian Charset" toggle button will show up in the language bar. You can then choose between simpliefied charactersa dn traditional characters.
 
-### Option 2: Chinese Mac Input Method {{% resource_link "9064073a-acac-47de-a2f8-7d5dc77887d7" "Guide" %}}.
+### Option 2: Chinese Mac Input Method [Guide](https://support.apple.com/guide/chinese-input-method/set-up-the-input-source-cim6023ab944/mac).
 
 Recommended input methods: ITABC for simplified characters and "Pinyin" for traditional characters.
 
-### Option 3: {{% resource_link "79178669-1b68-413f-87ea-3f9a2b706135" "Wénlín" %}}
+### Option 3: [Wénlín](http://www.wenlin.com/)
 
 A software for learning chinese.
 
 How to Input Pinyin Tone Marks in Microsoft Word
 ------------------------------------------------
 
-Create Pinyin Conversion Macros in Word 2000 and up (Source: Dr. Tianwei Xie's website for {{% resource_link "50fe61da-81e2-43b1-a0c3-d99d61a65dea" "Learning Chinese On-line" %}}.) For the "yu" sound, type "v" or "uu".
+Create Pinyin Conversion Macros in Word 2000 and up (Source: Dr. Tianwei Xie's website for [Learning Chinese On-line](http://www.csulb.edu/~txie/PINYIN/pinyin.htm).) For the "yu" sound, type "v" or "uu".

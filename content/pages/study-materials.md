@@ -3,6 +3,8 @@ content_type: page
 description: This page provides study materials for this course, including writing
   assignments, study notes for Pinyin and Chinese characters, exercises, and test
   preparation.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

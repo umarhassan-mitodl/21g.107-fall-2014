@@ -5,6 +5,8 @@ description: This file contains information regarding stroke order of characters
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/d94c71b016652464f67f0de411494f7c_MIT21G_107F14_Chars7_SO.pdf
 file_size: 271461
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

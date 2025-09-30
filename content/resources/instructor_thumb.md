@@ -4,6 +4,8 @@ description: ''
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/0937e2523ce78fb462ed90708e6f1d25_instructor_thumb.jpg
 file_size: 60359
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

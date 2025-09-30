@@ -88,7 +88,7 @@ In Class activity
 
 *   Writing assignments:
     1.  Handwrite a sentence for each of the entries in "Sentence Patterns and Word Usage." on p. 50 in \[PC\] on a piece of paper and hand them in class.
-    2.  Using the \[PC\] Lesson 3 text structure as a model, handwrite an article on a country, a U.S. state, or any other regions of your own choice. Focus on the topographic features that have a direct impact on the weather and the diet there. If you want to use a word you know how to say it but do not how to write, try Appendices I, II on pp. 209–48, or use a dictionary. If you don't have a dictionary, type in Pinyin for the "Search Dictionary" section of Zhongwen Zipu on this {{% resource_link "84792f9a-e456-4a91-97a3-6444248668f8" "website" %}}.
+    2.  Using the \[PC\] Lesson 3 text structure as a model, handwrite an article on a country, a U.S. state, or any other regions of your own choice. Focus on the topographic features that have a direct impact on the weather and the diet there. If you want to use a word you know how to say it but do not how to write, try Appendices I, II on pp. 209–48, or use a dictionary. If you don't have a dictionary, type in Pinyin for the "Search Dictionary" section of Zhongwen Zipu on this [website](http://zhongwen.com).
 
 
 {{< tdclose >}}

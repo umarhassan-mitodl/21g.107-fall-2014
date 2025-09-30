@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides details on assignments and in-class activities
   for the fourth module of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -77,7 +79,7 @@ IN CLASS
 *   Writing assignments:
     1.  Handwrite a sentence for each of the entries in "Sentence Patterns and Word Usage." on p. 92 on a piece of paper and hand them in class.
     2.  Using your imagination and handwrite your own story of "天和 地" (The Heaven and Earth). Pay special attention to cohesiveness. (cf. Understanding the text structure on pp. 86–87).
-*   If you want to use a word you know how to say it but do not know how to write it, try Appendices I, II on pp. 209–48, or use a dictionary. If you don’t have a dictionary, type in Pinyin for the "Search Dictionary" section at at Zhongwen Zipu at this {{% resource_link "84792f9a-e456-4a91-97a3-6444248668f8" "website" %}}, or use an on-line dictionary listed in the {{% resource_link 1541613f-8e57-643a-07a2-8d4eaf450cab "Tools and Resources" %}} section.
+*   If you want to use a word you know how to say it but do not know how to write it, try Appendices I, II on pp. 209–48, or use a dictionary. If you don’t have a dictionary, type in Pinyin for the "Search Dictionary" section at at Zhongwen Zipu at this [website](http://zhongwen.com), or use an on-line dictionary listed in the {{% resource_link 1541613f-8e57-643a-07a2-8d4eaf450cab "Tools and Resources" %}} section.
 
 
 {{< tdclose >}}

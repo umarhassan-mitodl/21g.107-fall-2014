@@ -4,6 +4,8 @@ description: ''
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/d6305606348c523e83d32f850ec85455_4afZKY-INNA.vtt
 file_size: 5627
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
